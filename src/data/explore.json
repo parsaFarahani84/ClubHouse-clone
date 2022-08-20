@@ -1,0 +1,58 @@
+{
+  "people": [
+    {
+      "title": "April Underwood",
+      "description": "CEO and Founder, local Laboratory. Co-founder #ANajkasIkdasid"
+    },
+    {
+      "title": "Helena Price Hambrecht",
+      "description": "Founder @drinkaus / Twitter @helena"
+    },
+    {
+      "title": "James Chan",
+      "description": "@jamesCham"
+    }
+  ],
+  "conversation": [
+    {
+      "title": "Tech",
+      "description": "Venture Capital, DTC, AI, Saas, Angel Investing"
+    },
+    {
+      "title": "Languages",
+      "description": "Venture Capital, DTC, AI, Saas, Angel Investing"
+    },
+    {
+      "title": "Places",
+      "description": "Venture Capital, DTC, AI, Saas, Angel Investing"
+    },
+    {
+      "title": "Identify",
+      "description": "Venture Capital, DTC, AI, Saas, Angel Investing"
+    },
+    {
+      "title": "Sports",
+      "description": "Venture Capital, DTC, AI, Saas, Angel Investing"
+    },
+    {
+      "title": "Life",
+      "description": "Venture Capital, DTC, AI, Saas, Angel Investing"
+    },
+    {
+      "title": "Hanging Out",
+      "description": "Venture Capital, DTC, AI, Saas, Angel Investing"
+    },
+    {
+      "title": "faith",
+      "description": "Venture Capital, DTC, AI, Saas, Angel Investing"
+    },
+    {
+      "title": "Wellness",
+      "description": "Venture Capital, DTC, AI, Saas, Angel Investing"
+    },
+    {
+      "title": "World Affairs",
+      "description": "Venture Capital, DTC, AI, Saas, Angel Investing"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+.activityContainer {
+  height: 100%;
+  overflow: auto;
+  padding: 0 0.5em;
+  padding-top: 5em;
+}
+
+.arrow {
+  font-size: 20px;
+  position: absolute;
+  left: 0px;
+  top: 30%;
+  transform: translateY(-50%);
+  margin-top: 0.5em;
+}
+
+.activity {
+  display: flex;
+  flex-direction: column;
+}
+
+.activity img {
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+}
+
+.box {
+  display: flex;
+  margin-top: 1em;
+  border-bottom: 1px solid grey;
+}
+
+.box p {
+  margin-left: 1em;
+  font-weight: 500;
+}
+
+.theDay {
+  display: flex;
+}
